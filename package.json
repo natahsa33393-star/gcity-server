@@ -1,0 +1,11 @@
+{
+  "name": "vk-game",
+  "version": "1.0.2",
+  "private": true,
+  "scripts": {
+    "deploy": "vk-miniapps-deploy"
+  },
+  "devDependencies": {
+    "@vkontakte/vk-miniapps-deploy": "^1.0.2"
+  }
+}
